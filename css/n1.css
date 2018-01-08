@@ -1,0 +1,89 @@
+ul{
+    padding: 0;
+    margin: 0;
+}
+li{
+    list-style: none;
+    float: left;
+    height: 100%;
+}
+#banner{
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    background:rgba(60, 80, 100, 0.7);
+    position: relative;
+    overflow: hidden;
+}
+.imgList{
+    position: absolute;
+    width: 4500px;
+    height: 100%;
+    /* overflow: hidden; */
+}
+.imgList>li{
+    width: 500px;
+}
+
+.imgList img{
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+#prev,#next{
+    position: absolute;
+    top: 0; 
+    height: 100%;
+    /* background: red; */
+    cursor: pointer;
+    opacity: 0.7;
+}
+#prev:hover,#next:hover{
+    opacity: 1;
+}
+#prev>i,#next>i{
+    position: relative;
+    top: 45%;
+}
+#prev{
+    left: 0;
+}
+#next{
+    right: 0px;
+}
+
+/* 左下角图片信息 */
+.infoList{
+    position: absolute;
+    bottom: 0;
+    width: 200px;
+    height: 30px;
+    /* background: #000; */
+    left: 0;
+}
+.infoList>li{
+    display: none;
+    overflow: hidden;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
+/* 右下角索引 */
+.indexList{
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    /* width: 60px; */
+    height: 30px;
+}
+.banner-index-base{
+    margin-right: 5px;
+    color: #fff;
+    width: 10px;
+    height: 10px;
+    border-radius:50%; 
+    background-color: #fff;
+}
+.banner-index-on{
+    background-color: #000;
+}
