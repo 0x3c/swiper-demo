@@ -4,6 +4,7 @@
 
 ## 效果预览
 因为几种的实现结果相同，所以只展示其中一个。
+
 [效果预览](https://jiadahao.github.io/swiper-demo/swiper.html)
 
 ## 代码导航
