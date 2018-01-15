@@ -12,9 +12,9 @@
 
 [jquery版](https://github.com/jiadahao/swiper-demo/blob/master/js/swiper.jq.js)
 
-[原生js版](https://github.com/jiadahao/swiper-demo/blob/master/js/swiper.js)
+[原生js](https://github.com/jiadahao/swiper-demo/blob/master/js/swiper.js)
 
-[js面向对象版](https://github.com/jiadahao/swiper-demo/blob/master/js/swiper.obj.js)
+[js对象(组合原型构造函数)](https://github.com/jiadahao/swiper-demo/blob/master/js/swiper.obj.js)
 
 [html模板](https://github.com/jiadahao/swiper-demo/blob/master/swiper.html)
 

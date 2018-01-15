@@ -2,7 +2,7 @@
 // 面向对象版轮播
 
 // 构造函数
-function Swiper(obj = arg) {
+function Swiper(obj) {
     this.el = obj.el;                      // 根元素 id/class
     this.paginationCSS = obj.pagination; // 分页器 id/class
     this.prevButtonCSS = obj.prevButton; // 上一张按钮 id/class
@@ -29,7 +29,6 @@ function Swiper(obj = arg) {
     this.initElement();
     this.initEvent();
     this.autoTimer = this.autoplayFunc();
-    // this.jump(5)
 }
 
 // 初始化元素,绑定到对象内部
