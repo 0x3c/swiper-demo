@@ -5,19 +5,19 @@
 ## 效果预览
 因为几种的实现结果相同，所以只展示其中一个。
 
-[效果预览](https://jiadahao.github.io/swiper-demo/swiper.html)
+[效果预览](https://doyoyo.github.io/swiper-demo/swiper.html)
 
 ## 代码导航
 三种版本都是用的相同的html和css样式。demo 重点在于js上。
 
-[jquery版](https://github.com/jiadahao/swiper-demo/blob/master/js/swiper.jq.js)
+[jquery版](https://github.com/doyoyo/swiper-demo/blob/master/js/swiper.jq.js)
 
-[原生js](https://github.com/jiadahao/swiper-demo/blob/master/js/swiper.js)
+[原生js](https://github.com/doyoyo/swiper-demo/blob/master/js/swiper.js)
 
-[js对象(组合原型构造函数)](https://github.com/jiadahao/swiper-demo/blob/master/js/swiper.obj.js)
+[js对象(组合原型构造函数)](https://github.com/doyoyo/swiper-demo/blob/master/js/swiper.obj.js)
 
-[html模板](https://github.com/jiadahao/swiper-demo/blob/master/swiper.html)
+[html模板](https://github.com/doyoyo/swiper-demo/blob/master/swiper.html)
 
-[css样式模板](https://github.com/jiadahao/swiper-demo/blob/master/css/swiper.css)
+[css样式模板](https://github.com/doyoyo/swiper-demo/blob/master/css/swiper.css)
 
 
